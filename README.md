@@ -9,6 +9,14 @@ An advanced CLI tool that analyzes AWS IAM policies for over-permissive access p
 - Risk scoring engine
 - JSON export report
 - Colored CLI output
+- aws-iam-least-privilege-analyzer/
+│
+├── main.py
+├── analyzer.py
+├── risk_engine.py
+├── reporter.py
+├── requirements.txt
+└── README.md
 - 🚀 How To Run
 - pip install -r requirements.txt
 python main.py
