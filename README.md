@@ -59,11 +59,5 @@ This project is primarily licensed under the **MIT License**, with specific modu
 - 🛡️ **No Warranty:** The software is provided "as is", without any warranty of any kind. The author is not liable for any claims or damages.
 
 **For more details, view the [Full LICENSE File](./LICENSE)**
-
-
-Libraries: hashlib, watchdog, requests, psutil, subprocess, smtplib
-
-OS: Linux (Ubuntu/Debian/Kali) & Windows (Admin/Root access required)
-
 👨‍💻 Author
 Anuj Sharma Cloud Security Automation Enthusiast | IT Automation Specialist | Python for SecOps
